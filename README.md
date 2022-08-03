@@ -1,5 +1,5 @@
 # Wisconsin-Breast-Cancer-Data
-This project analyzes the data from the Wisconsin Breast Cancer dataset. It replaces the missing values using mean imputation, implements k-means algorithm and then analyzes the quality of the clustering.
+This project analyzes the data from the Wisconsin Breast Cancer dataset. It replaces the missing values using mean imputation, implements k-means algorithm and then analyzes the quality of the clustering. A final report PDF is attached to visualize the data.
 
 Extended version:
 This project implements the k-means algorithm for the Wisconsin Breast Cancer data set while using Python. The project fills in missing values, adds a predicted class and then applies an error statement to the predicted class.
